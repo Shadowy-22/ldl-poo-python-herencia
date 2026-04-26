@@ -1,3 +1,6 @@
+## TODO: - Adaptar esta lógica al proyecto actual (usar clases de src/modules)
+## - Mover la ejecución a main.py
+## - Eliminar este archivo una vez integrada la funcionalidad
 class Jugador:
     def __init__(self, nro_camiseta, apellido, posicion):
         self.nro_camiseta = nro_camiseta
